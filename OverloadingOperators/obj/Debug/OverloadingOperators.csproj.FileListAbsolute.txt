@@ -1,0 +1,5 @@
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.dll
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.pdb
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.csprojResolveAssemblyReference.cache
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.dll
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.pdb
